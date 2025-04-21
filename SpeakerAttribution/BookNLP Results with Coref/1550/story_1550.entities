@@ -1,0 +1,70 @@
+COREF	start_token	end_token	prop	cat	text
+7	1	5	NOM	GPE	a small town named Chillyville
+8	7	11	NOM	LOC	way up north in Alaska
+0	11	11	PROP	GPE	Alaska
+4	19	19	PROP	PER	Almond
+5	21	21	PROP	PER	Aloi
+4	28	28	PROP	PER	Almond
+5	30	30	PROP	PER	Aloi
+4	47	47	PROP	PER	Almond
+5	49	49	PROP	PER	Aloi
+4	59	59	PROP	PER	Almond
+5	61	61	PROP	PER	Aloi
+4	75	75	PROP	PER	Almond
+5	77	77	PROP	PER	Aloi
+4	92	92	PROP	PER	Almond
+5	94	94	PROP	PER	Aloi
+9	94	97	NOM	FAC	Aloi 's perfect home
+4	107	107	PROP	PER	Almond
+5	109	109	PROP	PER	Aloi
+4	113	113	PROP	PER	Almond
+5	118	118	PRON	PER	you
+14	129	129	PRON	PER	us
+5	132	132	PROP	PER	Aloi
+5	139	139	PRON	PER	I
+14	141	141	PRON	PER	we
+14	154	154	PRON	PER	we
+4	164	164	PROP	PER	Almond
+5	166	166	PROP	PER	Aloi
+10	173	175	NOM	LOC	shiny snowy mountains
+11	177	179	NOM	LOC	deep blue lakes
+4	193	193	PROP	PER	Almond
+5	195	195	PROP	PER	Aloi
+4	202	202	PROP	PER	Almond
+5	204	204	PROP	PER	Aloi
+4	216	216	PROP	PER	Almond
+5	218	218	PROP	PER	Aloi
+6	220	222	PROP	PER	Wise Old Squirrel
+4	234	234	PROP	PER	Almond
+5	236	236	PROP	PER	Aloi
+6	239	241	PROP	PER	Wise Old Squirrel
+12	248	248	PRON	PER	they
+6	252	254	PROP	PER	Wise Old Squirrel
+12	261	261	PRON	PER	they
+4	266	266	PROP	PER	Almond
+4	273	273	PROP	PER	Almond
+5	275	275	PROP	PER	Aloi
+6	281	285	PROP	PER	Kindly , Wise Old Squirrel
+12	292	292	PRON	PER	they
+15	297	298	NOM	PER	Dear friends
+15	300	300	PRON	PER	your
+16	304	315	NOM	LOC	different lands — Mediterranean for Almond and Southern African deserts for Aloi
+1	307	307	PROP	GPE	Mediterranean
+4	309	309	PROP	GPE	Almond
+3	311	312	PROP	LOC	Southern African
+5	315	315	PROP	PER	Aloi
+15	317	317	PRON	PER	You
+17	323	323	PRON	PER	our
+4	335	335	PROP	PER	Almond
+5	337	337	PROP	PER	Aloi
+4	363	363	PROP	PER	Almond
+5	365	365	PROP	PER	Aloi
+4	375	375	PROP	PER	Almond
+5	377	377	PROP	PER	Aloi
+4	389	389	PROP	PER	Almond
+5	391	391	PROP	PER	Aloi
+4	400	400	PROP	PER	Almond
+5	402	402	PROP	PER	Aloi
+4	433	433	PROP	PER	Almond
+5	435	435	PROP	PER	Aloi
+13	443	443	NOM	PER	kids

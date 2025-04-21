@@ -1,0 +1,57 @@
+COREF	start_token	end_token	prop	cat	text
+3	1	5	NOM	GPE	a small town named Mathville
+4	8	10	NOM	PER	two best friends
+0	12	12	PROP	PER	Algy
+1	14	14	PROP	PER	Sammy
+4	16	18	NOM	PER	two best friends
+0	20	20	PROP	PER	Algy
+1	22	22	PROP	PER	Sammy
+4	34	36	NOM	PER	two best friends
+0	38	38	PROP	PER	Algy
+1	40	40	PROP	PER	Sammy
+4	46	48	NOM	PER	two best friends
+0	50	50	PROP	PER	Algy
+2	52	52	PROP	PER	Sammy\
+0	81	81	PROP	PER	Algy
+0	95	95	PROP	PER	Algy
+1	98	98	PROP	PER	Sammy
+4	103	103	PRON	PER	we
+4	130	132	NOM	PER	two best friends
+0	134	134	PROP	PER	Algy
+1	136	136	PROP	PER	Sammy
+0	148	148	PROP	PER	Algy
+4	154	154	PRON	PER	we
+4	160	160	PRON	PER	our
+0	175	175	PROP	PER	Algy
+0	177	177	PROP	PER	Algy
+1	182	182	PROP	PER	Sammy
+4	195	195	PRON	PER	we
+1	210	210	PROP	PER	Sammy
+4	222	222	PRON	PER	us
+4	227	227	PRON	PER	we
+0	239	239	PROP	PER	Algy
+1	246	246	PROP	PER	Sammy
+4	257	257	PRON	PER	us
+1	262	262	PRON	PER	you
+4	288	288	PRON	PER	we
+4	297	297	PRON	PER	we
+4	314	316	NOM	PER	two best friends
+0	318	318	PROP	PER	Algy
+1	320	320	PROP	PER	Sammy
+10	328	331	NOM	PER	-6.\n\nAs two best friends
+0	333	333	PROP	PER	Algy
+1	335	335	PROP	PER	Sammy
+4	340	342	NOM	PER	two best friends
+0	344	344	PROP	PER	Algy
+2	346	346	PROP	PER	Sammy\
+4	361	363	NOM	PER	two best friends
+0	365	365	PROP	PER	Algy
+1	367	367	PROP	PER	Sammy
+4	372	374	NOM	PER	two best friends
+0	376	376	PROP	PER	Algy
+2	378	378	PROP	PER	Sammy\
+14	402	402	NOM	PER	everyone
+15	417	417	PRON	PER	us
+4	431	433	NOM	PER	two best friends
+0	435	435	PROP	PER	Algy
+1	437	437	PROP	PER	Sammy

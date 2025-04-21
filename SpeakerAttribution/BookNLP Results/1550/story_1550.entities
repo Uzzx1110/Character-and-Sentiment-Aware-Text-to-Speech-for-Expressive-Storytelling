@@ -1,0 +1,51 @@
+COREF	start_token	end_token	prop	cat	text
+6	1	5	NOM	GPE	a small town named Chillyville
+7	7	11	NOM	LOC	way up north in Alaska
+0	11	11	PROP	GPE	Alaska
+2	19	19	PROP	PER	Almond
+3	21	21	PROP	PER	Aloi
+8	23	23	PRON	PER	They
+8	35	35	PRON	PER	they
+8	40	40	PRON	PER	their
+8	48	48	PRON	PER	they
+8	58	58	PRON	PER	their
+9	58	62	NOM	FAC	their perfect home to grow
+8	65	65	PRON	PER	they
+2	69	69	PROP	PER	Almond
+3	74	74	PRON	PER	you
+8	85	85	PRON	PER	us
+3	88	88	PROP	PER	Aloi
+2	95	95	PRON	PER	I
+8	97	97	PRON	PER	we
+8	110	110	PRON	PER	we
+8	115	115	PRON	PER	They
+10	122	132	NOM	LOC	shiny snowy mountains , deep blue lakes , and dense forests
+2	142	142	PROP	PER	Almond
+3	144	144	PROP	PER	Aloi
+8	146	146	PRON	PER	themselves
+8	153	153	PRON	PER	they
+4	155	157	PROP	PER	Wise Old Squirrel
+8	164	164	PRON	PER	they
+4	167	167	PRON	PER	He
+4	170	170	PRON	PER	he
+2	174	174	PROP	PER	Almond
+8	176	176	PRON	PER	their
+5	181	181	PROP	PER	Kindly
+4	183	185	PROP	PER	Wise Old Squirrel
+12	189	190	NOM	PER	Dear friends
+12	192	192	PRON	PER	your
+13	196	197	NOM	LOC	different lands
+1	199	199	PROP	GPE	Mediterranean
+2	201	201	PROP	PER	Almond
+14	203	207	NOM	LOC	Southern African deserts for Aloi
+3	207	207	PROP	PER	Aloi
+12	209	209	PRON	PER	You
+8	215	215	PRON	PER	our
+2	227	227	PROP	PER	Almond
+3	229	229	PROP	PER	Aloi
+8	250	250	PRON	PER	their
+8	254	254	PRON	PER	them
+8	261	261	PRON	PER	they
+8	265	265	PRON	PER	they
+8	291	291	PRON	PER	them
+11	299	299	NOM	PER	kids

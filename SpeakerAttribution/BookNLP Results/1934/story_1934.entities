@@ -1,0 +1,36 @@
+COREF	start_token	end_token	prop	cat	text
+2	1	4	NOM	GPE	a bustling digital world
+3	8	10	NOM	PER	two best friends
+0	12	13	PROP	PER	Techno Timmy
+1	15	16	PROP	PER	Wonder Wihelmina
+3	18	18	PRON	PER	They
+0	44	44	PROP	PER	Timmy
+0	48	48	PROP	PER	Timmy
+1	56	56	PRON	PER	YOU
+0	59	59	PRON	PER	I
+1	71	71	PRON	PER	her
+4	71	72	NOM	PER	her friend
+1	76	76	PROP	PER	Wihelmina
+0	84	84	PROP	PER	Timmy
+1	87	87	PRON	PER	She
+0	99	99	PRON	PER	his
+0	102	102	PROP	PER	Timmy
+0	105	105	PROP	PER	Timmy
+0	115	115	PRON	PER	I
+0	117	117	PRON	PER	myself
+1	131	131	PRON	PER	you
+1	134	134	PROP	PER	Wihelmina
+1	148	148	PRON	PER	she
+1	156	156	PRON	PER	she
+5	162	162	NOM	GPE	town
+1	168	168	PRON	PER	she
+1	170	170	PRON	PER	her
+0	173	173	PROP	PER	Timmy
+0	175	175	PRON	PER	He
+1	184	184	PRON	PER	her
+6	188	188	PRON	PER	they
+6	201	201	PRON	PER	they
+7	218	219	NOM	PER	budding scientists
+6	221	221	PRON	PER	they
+8	237	237	NOM	PER	others
+9	259	260	NOM	PER	everyone involved
