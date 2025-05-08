@@ -1,0 +1,60 @@
+COREF	start_token	end_token	prop	cat	text
+3	1	6	NOM	LOC	the heart of a bustling city
+4	4	6	NOM	GPE	a bustling city
+5	9	13	NOM	PER	a curious boy named Timmy
+0	13	13	PROP	PER	Timmy
+0	15	15	PRON	PER	his
+1	19	19	PROP	PER	Einstein
+6	25	25	PRON	PER	they
+7	29	31	NOM	FAC	the aviation museum
+6	34	34	PRON	PER	they
+0	42	42	PROP	PER	Timmy
+1	70	70	PROP	PER	Einstein
+0	74	74	PROP	PER	Timmy
+0	77	77	PRON	PER	his
+1	87	87	PROP	PER	Einstein
+0	92	92	PROP	PER	Timmy
+15	110	110	PRON	PER	their
+0	118	118	PROP	PER	Timmy
+16	127	127	NOM	VEH	planes
+1	138	138	PROP	PER	Einstein
+17	145	145	NOM	VEH	airplanes
+6	154	154	PRON	PER	our
+6	164	164	PRON	PER	us
+18	167	167	NOM	PER	someone
+10	171	171	PRON	PER	it
+6	180	180	PRON	PER	they
+0	184	184	PROP	PER	Timmy
+8	194	194	NOM	VEH	jets
+9	197	207	NOM	VEH	a strange - looking helicopter with two spinning blades on top
+0	209	209	PRON	PER	He
+9	211	211	PRON	FAC	it
+10	221	222	NOM	VEH	the plane
+11	228	229	NOM	VEH	the helicopter
+2	240	240	PRON	PER	I
+19	243	251	NOM	PER	a friendly chopper who loves flying around helping people
+20	251	251	NOM	PER	people
+2	253	253	PRON	PER	My
+2	256	256	PROP	PER	Helena
+0	261	261	PROP	PER	Timmy
+2	267	267	PRON	PER	you
+2	275	275	PRON	PER	your
+21	275	276	NOM	PER	your sister
+2	285	285	PROP	PER	Helena
+2	290	290	PRON	PER	My
+22	290	292	NOM	PER	My dear friend
+23	294	294	PRON	PER	we
+24	302	303	NOM	PER	twin sisters
+2	314	314	PRON	PER	she
+25	318	319	NOM	PER	no one
+2	323	323	PRON	PER	her
+2	329	329	PRON	PER	her
+2	341	341	PROP	PER	Helena
+0	343	343	PROP	PER	Timmy
+0	345	345	PRON	PER	himself
+0	352	352	PRON	PER	he
+2	359	359	PROP	PER	Helena
+12	359	361	NOM	PER	Helena 's sister
+0	363	363	PROP	PER	Timmy
+13	375	380	NOM	PER	all creations , living or otherwise
+14	385	385	PRON	PER	our

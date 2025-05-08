@@ -1,0 +1,219 @@
+start_token	end_token	supersense_category	text
+2	2	verb.stative	was
+5	6	noun.person	Eclectus Parrot
+7	7	verb.communication	named
+8	8	noun.person	Eddie
+12	13	noun.person	Eclectus Parrot
+14	14	verb.communication	named
+15	15	noun.person	Eddie
+16	16	verb.stative	lived
+20	20	noun.artifact	cage
+28	29	noun.person	Eclectus Parrot
+30	30	verb.communication	named
+31	31	noun.person	Eddie
+33	33	noun.person	friend
+36	36	noun.person	Macaw
+37	37	verb.perception	had
+40	40	noun.time	day
+43	43	verb.communication	talking
+46	46	noun.artifact	phone
+49	49	noun.person	friend
+50	52	noun.person	Polly the Macaw
+53	53	verb.communication	asked
+56	57	noun.person	Eclectus Parrot
+58	58	verb.communication	named
+59	59	noun.person	Eddie
+63	64	noun.person	Eclectus Parrot
+65	65	verb.communication	named
+66	66	noun.person	Eddie
+67	67	verb.stative	lived
+72	72	noun.artifact	home
+76	76	noun.animal	human
+77	77	verb.communication	says
+81	81	verb.consumption	need
+84	84	noun.artifact	cage
+89	90	noun.person	Eclectus Parrot
+91	91	verb.communication	named
+92	92	noun.person	Eddie
+93	93	verb.communication	replied
+97	97	verb.cognition	thinks
+99	99	verb.stative	'm
+105	105	noun.person	friend
+106	108	noun.person	Polly the Macaw
+109	109	verb.communication	suggested
+111	111	verb.communication	talk
+113	114	noun.person	Dr. Finch
+118	118	noun.animal	bird
+119	119	noun.person	expert
+123	123	verb.social	help
+126	127	noun.person	Eclectus Parrot
+128	128	verb.communication	named
+129	129	noun.person	Eddie
+130	130	verb.cognition	understand
+132	132	noun.attribute	importance
+134	134	verb.possession	having
+137	137	noun.location	habitat
+140	141	noun.person	Dr. Finch
+145	145	noun.animal	bird
+146	146	noun.person	expert
+150	150	verb.social	help
+151	151	noun.person	Eddie
+152	152	verb.cognition	understand
+154	154	noun.attribute	importance
+156	156	verb.stative	having
+159	159	noun.location	habitat
+161	161	noun.artifact	office
+164	164	verb.perception	discovered
+166	166	noun.communication	facts
+168	168	noun.animal	birds
+169	169	verb.stative	needing
+170	170	noun.quantity	room
+172	172	verb.motion	fly
+174	174	verb.motion	hop
+176	176	verb.motion	climb
+179	179	verb.cognition	explore
+181	181	verb.change	stay
+186	187	noun.person	Dr. Finch
+191	191	noun.animal	bird
+192	192	noun.person	expert
+196	196	verb.social	help
+197	197	noun.person	Eddie
+198	198	verb.cognition	understand
+200	200	noun.attribute	importance
+205	205	noun.location	habitat
+206	206	verb.communication	explained
+209	209	noun.location	spaces
+210	211	verb.stative	allowed for
+212	212	noun.artifact	toys
+214	214	noun.animal	perches
+218	218	noun.act	activities
+220	220	verb.stative	kept
+223	224	noun.person	Eclectus Parrot
+225	225	verb.communication	named
+226	226	noun.person	Eddie
+228	228	verb.creation	stimulated
+230	231	noun.person	Dr. Finch
+235	235	noun.animal	bird
+236	236	noun.person	expert
+240	240	verb.social	help
+241	241	noun.person	Eddie
+242	242	verb.cognition	understand
+244	244	noun.attribute	importance
+249	249	noun.location	habitat
+250	250	verb.communication	said
+253	253	verb.creation	Imagine
+255	256	verb.social	cooped up
+258	258	noun.time	day
+261	261	noun.relation	change
+263	263	noun.artifact	scenery
+265	265	noun.animal	Birds
+266	266	verb.stative	require
+268	268	noun.substance	environments
+270	270	verb.stative	live
+276	277	noun.person	Eclectus Parrot
+278	278	verb.communication	named
+279	279	noun.person	Eddie
+281	281	verb.cognition	realized
+284	284	noun.location	space
+285	285	verb.stative	was
+289	290	noun.person	Eclectus Parrot
+291	291	verb.communication	named
+292	292	noun.person	Eddie
+296	297	noun.person	Eclectus Parrot
+298	298	verb.communication	named
+299	299	noun.person	Eddie
+300	301	verb.motion	returned home
+303	303	verb.consumption	shared
+306	307	noun.person	Eclectus Parrot
+308	308	verb.communication	named
+309	309	noun.person	Eddie
+312	312	noun.Tops	knowledge
+316	317	noun.person	Eclectus Parrot
+318	318	verb.communication	named
+319	319	noun.person	Eddie
+322	322	noun.person	companion
+327	328	noun.person	Eclectus Parrot
+329	329	verb.communication	named
+330	330	noun.person	Eddie
+332	332	noun.feeling	surprise
+335	335	noun.person	friend
+336	338	noun.person	Polly the Macaw
+339	339	verb.communication	agreed
+341	341	verb.possession	buy
+344	344	noun.artifact	cage
+353	353	noun.quantity	feet
+358	358	noun.artifact	cage
+367	367	noun.quantity	feet
+369	369	verb.perception	felt
+372	372	noun.artifact	palace
+377	378	noun.animal	Eclectus Parrot
+379	379	verb.communication	named
+380	380	noun.person	Eddie
+383	383	noun.artifact	dwelling
+387	387	noun.feeling	excitement
+391	392	noun.animal	Eclectus Parrot
+393	393	verb.communication	named
+394	394	noun.person	Eddie
+395	395	verb.change	began
+396	396	verb.cognition	exploring
+398	398	noun.artifact	nook
+400	400	noun.artifact	cranny
+404	405	noun.person	Eclectus Parrot
+406	406	verb.communication	named
+407	407	noun.person	Eddie
+411	411	noun.artifact	home
+417	417	verb.change	happened
+423	424	noun.person	Eclectus Parrot
+425	425	verb.communication	named
+426	426	noun.person	Eddie
+427	427	verb.emotion	loved
+430	431	noun.group	Eclectus Parrot
+432	432	verb.communication	named
+433	433	noun.person	Eddie
+436	436	noun.location	abode
+440	441	noun.person	Eclectus Parrot
+442	442	verb.communication	named
+443	443	noun.person	Eddie
+444	444	verb.change	missed
+445	445	verb.cognition	spending
+446	446	noun.time	time
+450	451	noun.person	Eclectus Parrot
+452	452	verb.communication	named
+453	453	noun.person	Eddie
+455	455	noun.animal	human
+459	460	noun.person	Eclectus Parrot
+461	461	verb.communication	named
+462	462	noun.person	Eddie
+464	464	noun.cognition	heart
+465	465	verb.emotion	longed
+468	468	noun.person	friend
+469	469	noun.person	Polly
+471	471	noun.person	Macaw
+473	473	noun.state	companionship
+476	476	verb.possession	sharing
+477	477	noun.food	meals
+482	482	noun.artifact	cage
+491	491	noun.quantity	feet
+493	493	verb.possession	provided
+495	495	noun.Tops	space
+499	499	noun.artifact	cage
+508	508	noun.quantity	feet
+512	512	verb.change	replace
+514	514	noun.act	interactions
+518	519	noun.person	Eclectus Parrot
+520	520	verb.communication	named
+521	521	noun.person	Eddie
+525	526	noun.person	Eclectus Parrot
+527	527	verb.communication	named
+528	528	noun.person	Eddie
+531	531	noun.person	caregiver
+537	537	verb.cognition	learned
+543	543	noun.location	habitats
+545	545	noun.quantity	nothing
+546	546	verb.stative	compares
+548	548	noun.feeling	love
+550	550	noun.cognition	attention
+553	553	noun.relation	bonding
+555	555	noun.Tops	humans
+557	557	noun.animal	humans
+560	560	noun.person	friends

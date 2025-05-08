@@ -1,0 +1,42 @@
+COREF	start_token	end_token	prop	cat	text
+5	1	7	NOM	LOC	a bustling forest filled with vibrant colors
+6	9	11	NOM	PER	two best friends
+0	13	15	PROP	PER	Benny the Beaver
+1	17	19	PROP	PER	Sammy the Squirrel
+6	36	36	PRON	PER	They
+6	46	46	PRON	PER	they
+7	50	51	NOM	LOC	the woods
+2	53	53	PROP	PER	Benny
+1	57	57	PROP	PER	Sammy
+1	60	60	PRON	PER	you
+1	74	74	PRON	PER	his
+1	81	81	PROP	PER	Sammy
+2	88	88	PROP	PER	Benny
+6	101	101	PRON	PER	we
+6	113	113	PRON	PER	they
+6	118	118	PRON	PER	they
+6	123	123	PRON	PER	their
+6	128	128	PRON	PER	they
+2	147	147	PROP	PER	Benny
+1	157	157	PROP	PER	Sammy
+6	171	171	PRON	PER	our
+3	176	176	PROP	PER	Excitedly
+2	178	178	PRON	PER	he
+4	181	183	PROP	PER	Mrs. Oakley Owl
+2	185	185	PRON	PER	him
+8	194	194	PRON	PER	their
+8	203	203	PRON	PER	they
+8	212	212	PRON	PER	them
+8	232	232	PRON	PER	they
+8	259	259	PRON	PER	themselves
+1	264	264	PROP	PER	Sammy
+6	273	273	PRON	PER	they
+8	279	279	PRON	PER	their
+8	297	297	PRON	PER	their
+6	313	313	PRON	PER	they
+6	319	319	PRON	PER	their
+6	322	322	PRON	PER	their
+9	322	325	NOM	PER	their fellow woodland creatures
+10	331	331	NOM	FAC	home
+6	333	333	PRON	PER	they
+2	363	363	PROP	PER	Benny

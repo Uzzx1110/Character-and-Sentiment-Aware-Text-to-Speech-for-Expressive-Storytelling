@@ -1,0 +1,84 @@
+COREF	start_token	end_token	prop	cat	text
+3	1	6	NOM	LOC	the heart of a bustling city
+4	4	6	NOM	GPE	a bustling city
+5	9	11	NOM	PER	a curious boy
+0	13	13	PROP	PER	Timmy
+5	15	17	NOM	PER	a curious boy
+0	19	19	PROP	PER	Timmy
+1	24	24	PROP	PER	Einstein
+7	30	38	NOM	PER	a curious boy named Timmy and his teddy bear
+0	34	34	PROP	PER	Timmy
+0	36	36	PRON	PER	his
+1	40	40	PROP	PER	Einstein
+8	44	46	NOM	FAC	the aviation museum
+7	49	57	NOM	PER	a curious boy named Timmy and his teddy bear
+0	53	53	PROP	PER	Timmy
+0	55	55	PRON	PER	his
+1	59	59	PROP	PER	Einstein
+5	67	69	NOM	PER	a curious boy
+0	71	71	PROP	PER	Timmy
+11	110	110	PRON	PER	its
+1	118	118	PROP	PER	Einstein
+5	122	124	NOM	PER	a curious boy
+0	126	126	PROP	PER	Timmy
+13	129	133	NOM	PER	a curious boy named Timmy
+0	133	133	PROP	PER	Timmy
+5	144	144	PRON	PER	his
+1	148	148	PROP	PER	Einstein
+0	153	153	PROP	PER	Timmy
+11	171	171	PRON	PER	their
+5	179	181	NOM	PER	a curious boy
+0	183	183	PROP	PER	Timmy
+31	192	192	NOM	VEH	planes
+5	203	203	PRON	PER	his
+1	207	207	PROP	PER	Einstein
+32	214	214	NOM	VEH	airplanes
+33	223	223	PRON	PER	our
+33	233	233	PRON	PER	us
+34	236	236	NOM	PER	someone
+35	240	240	PRON	PER	it
+5	249	251	NOM	PER	a curious boy
+0	253	253	PROP	PER	Timmy
+5	255	255	PRON	PER	his
+1	259	259	PROP	PER	Einstein
+5	263	265	NOM	PER	a curious boy
+0	267	267	PROP	PER	Timmy
+17	269	271	NOM	VEH	various aircraft types
+18	273	277	NOM	VEH	single engine propellers , jets
+19	280	284	NOM	VEH	a strange - looking helicopter
+5	292	294	NOM	PER	a curious boy
+0	296	296	PROP	PER	Timmy
+19	298	302	NOM	VEH	a strange - looking helicopter
+22	332	342	NOM	PER	a strange - looking helicopter with two spinning blades on top
+22	353	353	PRON	PER	I
+36	364	364	NOM	PER	people
+22	366	366	PRON	PER	My
+2	369	369	PROP	PER	Helena
+5	374	376	NOM	PER	a curious boy
+0	378	378	PROP	PER	Timmy
+22	384	384	PRON	PER	you
+22	392	392	PRON	PER	your
+37	392	393	NOM	PER	your sister
+2	402	402	PROP	PER	Helena
+2	407	407	PRON	PER	My
+38	407	409	NOM	PER	My dear friend
+39	411	411	PRON	PER	we
+40	416	417	NOM	PER	a pair
+41	419	420	NOM	PER	twin sisters
+2	431	431	PRON	PER	she
+42	435	436	NOM	PER	no one
+2	440	440	PRON	PER	her
+2	446	446	PRON	PER	her
+2	457	457	PROP	PER	Helena
+5	459	461	NOM	PER	a curious boy
+0	463	463	PROP	PER	Timmy
+13	465	469	NOM	PER	a curious boy named Timmy
+0	469	469	PROP	PER	Timmy
+5	476	478	NOM	PER	a curious boy
+0	480	480	PROP	PER	Timmy
+2	487	487	PROP	PER	Helena
+27	487	489	NOM	PER	Helena 's sister
+13	491	495	NOM	PER	a curious boy named Timmy
+0	495	495	PROP	PER	Timmy
+29	507	508	NOM	PER	all creations
+30	517	517	PRON	PER	our

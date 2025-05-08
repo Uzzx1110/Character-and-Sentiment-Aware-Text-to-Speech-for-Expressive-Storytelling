@@ -1,0 +1,164 @@
+start_token	end_token	supersense_category	text
+1	1	noun.location	Atomville
+4	4	noun.Tops	creature
+6	7	verb.stative	made up
+10	10	noun.object	particles
+12	12	noun.substance	atoms
+15	16	noun.person	friend Electra
+17	17	verb.stative	was
+19	19	noun.animal	elephant
+21	21	verb.stative	lived
+26	27	noun.person	friend Electra
+28	28	verb.emotion	loved
+29	29	verb.cognition	learning
+33	33	noun.person	friend
+37	37	noun.body	body
+38	38	verb.social	worked
+41	41	noun.time	day
+44	45	noun.person	friend Electra
+46	46	verb.communication	asked
+48	49	noun.person	friend Electra
+52	52	noun.person	friend
+53	53	noun.person	Proton
+57	57	noun.animal	rabbit
+60	60	noun.person	Proton
+63	63	verb.cognition	know
+65	65	noun.substance	electrons
+66	66	verb.stative	carry
+68	69	noun.phenomenon	negative charge
+71	72	verb.motion	move around
+75	75	noun.attribute	levels
+81	81	verb.possession	have
+83	83	noun.phenomenon	energy
+86	86	verb.stative	’re
+90	90	noun.location	core
+95	96	noun.person	friend Proton
+100	100	noun.animal	rabbit
+101	101	verb.communication	replied
+106	106	noun.person	Electra
+108	108	verb.cognition	imagine
+110	110	noun.artifact	house
+111	111	verb.possession	has
+113	113	noun.artifact	floors
+117	117	noun.artifact	floor
+118	118	verb.stative	needs
+120	120	noun.attribute	power
+122	122	verb.stative	keep
+123	123	verb.social	working
+126	127	noun.artifact	ground floor
+130	130	verb.stative	need
+132	132	noun.phenomenon	electricity
+136	136	noun.artifact	lights
+141	141	noun.artifact	floor
+143	143	verb.stative	require
+146	146	noun.attribute	power
+150	150	noun.artifact	gadgets
+155	155	noun.phenomenon	power
+156	156	verb.consumption	needed
+159	159	noun.artifact	floors
+162	162	verb.cognition	compared
+166	166	noun.phenomenon	energy
+169	169	noun.object	electron
+170	170	noun.state	levels
+174	175	noun.person	friend Electra
+176	176	verb.communication	nodded
+178	178	verb.cognition	understanding
+183	184	noun.person	friend Electra
+187	188	verb.cognition	thought of
+190	190	noun.person	friend
+200	200	noun.state	energy
+204	204	verb.perception	hearing
+207	208	noun.person	friend Proton
+212	212	noun.animal	rabbit
+213	213	verb.cognition	compare
+215	216	noun.person	friend Electra
+219	219	noun.artifact	building
+220	220	verb.communication	helped
+222	222	noun.person	friend
+224	224	verb.cognition	realize
+226	226	verb.stative	being
+231	231	verb.stative	mean
+232	232	verb.possession	having
+234	234	noun.phenomenon	energy
+238	238	noun.communication	things
+240	240	verb.perception	seem
+243	243	verb.stative	hold
+246	246	noun.attribute	power
+252	252	noun.person	friend
+254	254	noun.person	Neutron
+256	256	verb.social	joined
+258	258	noun.communication	chat
+261	261	noun.person	friend
+263	263	noun.person	Neutron
+264	264	verb.communication	said
+268	268	verb.cognition	remember
+274	274	noun.substance	electrons
+275	275	verb.stative	possess
+277	277	noun.phenomenon	energy
+283	283	verb.stative	is
+288	288	noun.state	Balance
+289	289	verb.stative	is
+292	292	verb.social	managing
+294	294	noun.attribute	energies
+304	304	noun.substance	asteroid
+305	305	verb.emotion	struck
+306	306	noun.location	Atomville
+309	309	noun.substance	asteroid
+310	311	verb.creation	knocked off
+315	316	noun.person	friend Electra
+319	319	noun.substance	electrons
+321	321	verb.creation	causing
+322	322	noun.state	chaos
+325	326	noun.person	friend Electra
+328	328	noun.person	friends
+332	332	noun.substance	electrons
+336	336	verb.emotion	worried
+339	339	verb.change	happen
+346	347	noun.person	friend Electra
+348	348	verb.cognition	remembered
+350	350	noun.person	friend
+352	352	noun.person	Neutron
+354	354	noun.communication	advice
+356	356	verb.emotion	reassured
+359	359	verb.communication	saying
+365	365	verb.possession	lost
+367	367	noun.substance	energy
+371	371	verb.social	work
+374	374	verb.possession	share
+377	377	noun.attribute	strength
+380	380	verb.change	restore
+381	381	noun.state	balance
+390	390	verb.possession	losing
+393	393	noun.location	Atomville
+395	395	noun.attribute	sparkle
+397	397	noun.location	Atomville
+398	398	verb.change	thrived
+400	400	noun.location	Atomville
+402	402	noun.person	inhabitants
+403	403	verb.cognition	learned
+405	405	noun.cognition	value
+407	407	noun.act	cooperation
+410	410	noun.cognition	prowess
+413	413	noun.person	inhabitants
+414	414	verb.cognition	realized
+425	425	verb.stative	mattered
+432	432	noun.object	part
+434	434	noun.object	nature
+436	436	verb.stative	including
+438	438	noun.animal	humans
+442	442	noun.animal	humans
+444	445	verb.stative	consist of
+446	446	noun.substance	atoms
+450	450	noun.substance	protons
+452	452	noun.substance	neutrons
+455	455	noun.object	electrons
+459	459	noun.cognition	lessons
+460	460	verb.change	come
+463	463	verb.cognition	embrace
+464	464	noun.relation	change
+466	466	verb.change	stay
+470	470	verb.cognition	appreciate
+472	472	noun.act	role
+474	474	noun.relation	component
+475	475	verb.social	plays
+477	477	verb.creation	making

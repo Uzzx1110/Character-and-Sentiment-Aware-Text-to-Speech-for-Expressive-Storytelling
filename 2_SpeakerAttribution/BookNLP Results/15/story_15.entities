@@ -1,0 +1,43 @@
+COREF	start_token	end_token	prop	cat	text
+3	1	7	NOM	LOC	the heart of a lush green forest
+4	4	7	NOM	LOC	a lush green forest
+4	16	16	PRON	LOC	it
+5	17	17	NOM	FAC	home
+6	56	57	NOM	LOC	the forest
+7	59	73	NOM	PER	a wise old owl named Oliver , who loved observing his friends and fellow creatures
+0	64	64	PROP	PER	Oliver
+0	69	69	PRON	PER	his
+8	69	73	NOM	PER	his friends and fellow creatures
+1	82	84	PROP	PER	Chippy the chipmunk
+0	86	86	PROP	PER	Oliver
+9	104	104	PRON	PER	They
+2	114	115	PROP	PER	Fiona Fox
+2	123	123	PRON	PER	She
+2	125	125	PRON	PER	her
+2	129	129	PRON	PER	I
+0	136	136	PRON	PER	you
+9	150	150	PRON	PER	they
+9	157	157	PRON	PER	they
+10	161	162	NOM	LOC	the woods
+9	175	175	PRON	PER	they
+9	193	193	PRON	PER	their
+11	193	195	NOM	FAC	their beloved home
+12	202	204	NOM	PER	everyone living there
+9	208	208	PRON	PER	they
+9	232	232	PRON	PER	their
+13	232	233	NOM	FAC	their homes
+14	252	252	NOM	PER	survivors
+9	265	265	PRON	PER	their
+15	270	270	PRON	PER	our
+16	270	271	NOM	PER	our trio
+9	275	275	PRON	PER	they
+17	277	277	NOM	PER	someone
+0	285	285	PROP	PER	Oliver
+0	292	292	PRON	PER	He
+9	296	296	PRON	PER	We
+9	308	308	PRON	PER	Our
+19	313	314	NOM	FAC	these habitats
+9	323	323	PRON	PER	their
+9	333	333	PRON	PER	their
+18	364	365	NOM	PER	every creature
+18	372	372	PRON	PER	their

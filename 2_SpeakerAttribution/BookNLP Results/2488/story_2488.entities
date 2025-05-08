@@ -1,0 +1,64 @@
+COREF	start_token	end_token	prop	cat	text
+0	8	8	PROP	PER	Eddie
+0	10	10	PROP	PER	Eddie
+0	21	21	PRON	PER	his
+4	21	22	NOM	PER	his friend
+1	23	25	PROP	PER	Polly the Macaw
+1	37	37	PROP	PER	Polly
+0	39	39	PROP	PER	Eddie
+0	41	41	PRON	PER	he
+5	45	47	NOM	FAC	a tiny home
+0	50	50	PRON	PER	My
+24	50	51	NOM	PER	My human
+0	53	53	PRON	PER	I
+0	62	62	PROP	PER	Eddie
+24	66	66	PRON	PER	She
+0	68	68	PRON	PER	I
+25	71	71	NOM	FAC	here
+1	74	74	PROP	PER	Polly
+6	76	76	PRON	PER	they
+2	79	80	PROP	PER	Dr. Finch
+6	82	82	PRON	PER	their
+7	82	85	NOM	PER	their local bird expert
+0	90	90	PROP	PER	Eddie
+8	96	98	NOM	FAC	a spacious habitat
+2	101	102	PROP	PER	Dr. Finch
+9	101	104	NOM	FAC	Dr. Finch 's office
+6	106	106	PRON	PER	they
+1	129	129	PRON	PER	She
+10	132	133	NOM	FAC	bigger spaces
+0	145	145	PROP	PER	Eddie
+2	149	150	PROP	PER	Dr. Finch
+3	166	166	PROP	PER	Birds
+0	175	175	PROP	PER	Eddie
+0	183	183	PRON	PER	him
+0	185	185	PRON	PER	He
+11	187	187	NOM	FAC	home
+0	190	190	PRON	PER	his
+0	194	194	PRON	PER	his
+12	194	196	NOM	PER	his human companion
+0	199	199	PROP	PER	Eddie
+1	203	203	PRON	PER	she
+13	224	225	NOM	FAC	a palace
+0	228	228	PRON	PER	his
+14	228	230	NOM	FAC	his previous dwelling
+0	236	236	PROP	PER	Eddie
+0	244	244	PRON	PER	his
+15	244	247	NOM	FAC	his beautiful new home
+0	257	257	PROP	PER	Eddie
+0	259	259	PRON	PER	his
+16	259	261	NOM	FAC	his expansive abode
+0	263	263	PRON	PER	he
+0	268	268	PRON	PER	his
+17	268	269	NOM	PER	his human
+0	271	271	PRON	PER	His
+17	275	275	PRON	PER	her
+18	283	285	NOM	FAC	the new cage
+0	297	297	PROP	PER	Eddie
+0	299	299	PRON	PER	his
+19	299	301	NOM	PER	his beloved caregiver
+20	306	306	PRON	PER	they
+21	311	313	NOM	FAC	the best habitats
+22	325	325	NOM	PER	humans
+22	327	327	PRON	PER	their
+23	327	329	NOM	PER	their feathered friends

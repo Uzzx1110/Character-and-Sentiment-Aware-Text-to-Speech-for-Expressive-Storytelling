@@ -1,0 +1,7 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+63	80	40	40	Sammy	1	“ Solve -1147 = -11*a - 1213 for ‘ a ’ . What is the answer ? ”
+100	127	95	95	Algy	0	“ First , we need to get ‘ a ’ alone . To do that , let ’s add 1213 to both sides of the equation . ”
+151	164	148	148	Algy	0	“ Now , we simplify both sides to make our work easier ! ”
+184	205	175	175	Algy	0	“ Let ’s divide both sides by -11 now , so we can finally see what ‘ a ’ equals ! "
+213	234	210	210	Sammy	1	“ But wo n’t negative divided by negative give us positive ? Why would we want to use minus here ? "
+242	310	239	239	Algy	0	“ Great question , Sammy ! Yes , usually , negative divided by negative gives us positive . But when you divide a number by itself – no matter its sign – the result will always be 1 or , in this case , -1 since we have a negative number . That way , we maintain balance between the left and right side of the equation . "

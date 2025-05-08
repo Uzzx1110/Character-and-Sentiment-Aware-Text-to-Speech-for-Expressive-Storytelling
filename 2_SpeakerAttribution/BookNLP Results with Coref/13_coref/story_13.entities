@@ -1,0 +1,32 @@
+COREF	start_token	end_token	prop	cat	text
+6	5	7	NOM	GPE	a small village
+7	10	12	NOM	LOC	two tall mountains
+8	14	25	NOM	PER	a group of curious animals who loved learning new things every day
+8	27	38	NOM	PER	a group of curious animals who loved learning new things every day
+10	30	38	NOM	PER	curious animals who loved learning new things every day
+11	54	67	NOM	PER	none of a group of curious animals who loved learning new things every day
+8	75	86	NOM	PER	a group of curious animals who loved learning new things every day
+13	102	115	NOM	PER	a group of curious animals who loved learning new things every day 's journey
+0	118	118	PROP	PER	Bunny
+1	120	120	PROP	PER	Chipmunk
+0	123	123	PRON	PER	I
+0	130	130	PRON	PER	I
+2	141	142	PROP	PER	Clever Owl
+8	144	155	NOM	PER	a group of curious animals who loved learning new things every day
+2	163	163	PRON	PER	my
+21	163	164	NOM	PER	my friends
+2	182	183	PROP	PER	Clever Owl
+3	222	222	PROP	PER	Squirrel
+22	227	227	PRON	PER	we
+10	247	255	NOM	PER	curious animals who loved learning new things every day
+16	259	260	NOM	LOC	the mountain
+17	277	277	NOM	PER	everyone
+18	302	304	NOM	PER	the vibrant band
+8	310	321	NOM	PER	a group of curious animals who loved learning new things every day
+4	328	328	PROP	PER	Rabbit
+5	335	337	PROP	PER	Wise Old Owl
+23	342	342	NOM	PER	Children
+22	345	345	PRON	PER	our
+23	353	353	PRON	PER	YOU
+23	371	371	PRON	PER	your
+8	392	403	NOM	PER	a group of curious animals who loved learning new things every day

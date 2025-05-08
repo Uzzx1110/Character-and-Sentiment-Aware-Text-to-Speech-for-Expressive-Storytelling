@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audio Generator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Text to Speech for Expressive Storytelling</h1>
+    <div class="container">
+        <!-- Left Side -->
+        <div class="card">
+            <form id="uploadForm">
+                <div class="file-wrapper">
+                    <label for="textfile" class="file-label">Choose File</label>
+                    <input type="file" name="textfile" id="textfile" accept=".txt" required>
+                    <span id="fileName" class="file-name">No file chosen</span>
+                </div>
+                <div class="scroll-box" id="textContentBox"></div>
+                <button type="submit" class="custom-button">Generate Audio</button>
+            </form>
+        </div>
+
+        <!-- Right Side -->
+        <div class="card">
+            <form id="keywordsForm">
+                <input type="text" name="keywords" placeholder="Input up to 5 keywords" required>
+                <div class="scroll-box" id="storyBox"></div>
+                <button type="submit" class="custom-button">Generate Audio</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Audio Section -->
+    <div class="audio-section" id="audioSection">
+        <h3>Generated Audio</h3>
+        <audio controls>
+            <source src="{{ url_for('play_audio') }}" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+        <a href="{{ url_for('download_audio') }}">Download Audio</a>
+    </div>
+
+    <button id="clearBtn" class="clear-button">Clear All</button>
+
+    <script>
+        const uploadForm = document.getElementById('uploadForm');
+        const keywordsForm = document.getElementById('keywordsForm');
+        const textContentBox = document.getElementById('textContentBox');
+        const storyBox = document.getElementById('storyBox');
+        const audioSection = document.getElementById('audioSection');
+        const clearBtn = document.getElementById('clearBtn');
+
+        const fileInput = document.getElementById('textfile');
+        const fileNameDisplay = document.getElementById('fileName');
+
+        fileInput.addEventListener('change', () => {
+            const file = fileInput.files[0];
+            fileNameDisplay.textContent = file ? file.name : 'No file chosen';
+        });
+
+        uploadForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(uploadForm);
+            const response = await fetch('/api/upload_textfile', {
+                method: 'POST',
+                body: formData
+            });
+            const data = await response.json();
+            if (data.text_content) {
+                textContentBox.textContent = data.text_content;
+            }
+            if (data.audio_ready) {
+                audioSection.style.display = 'flex';
+            }
+        });
+
+        keywordsForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const formData = new FormData(keywordsForm);
+            const keywords = formData.get('keywords');
+            const response = await fetch('/api/generate_story', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ keywords })
+            });
+            const data = await response.json();
+            if (data.story) {
+                storyBox.textContent = data.story;
+            }
+            if (data.audio_ready) {
+                audioSection.style.display = 'flex';
+            }
+        });
+
+        clearBtn.addEventListener('click', () => {
+            textContentBox.textContent = '';
+            storyBox.textContent = '';
+            audioSection.style.display = 'none';
+            uploadForm.reset();
+            keywordsForm.reset();
+            fileNameDisplay.textContent = 'No file chosen';
+        });
+    </script>
+</body>
+</html>

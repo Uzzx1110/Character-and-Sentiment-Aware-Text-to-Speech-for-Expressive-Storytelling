@@ -1,0 +1,93 @@
+COREF	start_token	end_token	prop	cat	text
+0	1	1	PROP	GPE	Atomville
+4	14	14	PRON	PER	Our
+5	14	16	NOM	PER	Our friend Electra
+1	16	16	PROP	PER	Electra
+6	22	22	NOM	FAC	there
+4	25	25	PRON	PER	Our
+7	25	26	NOM	PER	Our friend
+1	27	27	PROP	PER	Electra
+4	32	32	PRON	PER	Our
+1	34	34	PROP	PER	Electra
+4	43	43	PRON	PER	Our
+7	43	44	NOM	PER	Our friend
+1	45	45	PROP	PER	Electra
+4	47	47	PRON	PER	Our
+7	47	48	NOM	PER	Our friend
+10	47	53	NOM	PER	Our friend Electra 's best friend Proton
+1	49	49	PROP	PER	Electra
+2	53	53	PROP	PER	Proton
+11	55	57	NOM	PER	a curious rabbit
+2	60	60	PROP	PER	Proton
+2	62	62	PRON	PER	I
+2	64	64	PRON	PER	my
+37	80	80	PRON	PER	they
+2	89	89	PRON	PER	my
+1	93	93	PRON	PER	her
+12	93	95	NOM	PER	her best friend
+2	96	96	PROP	PER	Proton
+11	98	100	NOM	PER	a curious rabbit
+1	106	106	PROP	PER	Electra
+1	109	109	PRON	PER	your
+38	109	110	NOM	FAC	your house
+39	112	113	NOM	FAC	several floors
+40	116	117	NOM	FAC	each floor
+1	125	125	PRON	PER	Your
+41	125	127	NOM	FAC	Your ground floor
+42	139	141	NOM	FAC	the topmost floor
+43	158	159	NOM	FAC	higher floors
+14	173	173	PRON	PER	Our
+7	173	174	NOM	PER	Our friend
+1	175	175	PROP	PER	Electra
+14	182	182	PRON	PER	Our
+7	182	183	NOM	PER	Our friend
+1	184	184	PROP	PER	Electra
+14	189	189	PRON	PER	Our
+7	189	190	NOM	PER	Our friend
+1	191	191	PROP	PER	Electra
+1	205	205	PRON	PER	her
+12	205	207	NOM	PER	her best friend
+2	208	208	PROP	PER	Proton
+11	210	212	NOM	PER	a curious rabbit
+14	214	214	PRON	PER	Our
+7	214	215	NOM	PER	Our friend
+1	216	216	PROP	PER	Electra
+21	218	219	NOM	FAC	a building
+14	221	221	PRON	PER	Our
+7	221	222	NOM	PER	Our friend
+1	223	223	PROP	PER	Electra
+23	251	252	NOM	PER	another friend
+3	254	254	PROP	PER	Neutron
+14	257	257	PRON	PER	their
+23	260	261	NOM	PER	another friend
+3	263	263	PROP	PER	Neutron
+14	293	293	PRON	PER	our
+0	306	306	PROP	GPE	Atomville
+14	314	314	PRON	PER	Our
+7	314	315	NOM	PER	Our friend
+1	316	316	PROP	PER	Electra
+14	324	324	PRON	PER	Our
+7	324	325	NOM	PER	Our friend
+1	326	326	PROP	PER	Electra
+27	326	328	NOM	PER	Electra 's friends
+28	335	335	NOM	PER	everyone
+14	345	345	PRON	PER	Our
+7	345	346	NOM	PER	Our friend
+1	347	347	PROP	PER	Electra
+23	349	350	NOM	PER	another friend
+3	352	352	PROP	PER	Neutron
+28	357	357	NOM	PER	everyone
+14	364	364	PRON	PER	we
+14	375	375	PRON	PER	our
+14	379	379	PRON	PER	we
+32	391	395	NOM	FAC	some of Atomville 's sparkle
+0	393	393	PROP	GPE	Atomville
+0	397	397	PROP	GPE	Atomville
+0	400	400	PROP	GPE	Atomville
+33	400	402	NOM	PER	Atomville 's inhabitants
+0	412	412	PRON	GPE	its
+34	412	413	NOM	PER	its inhabitants
+28	424	424	NOM	PER	everyone
+14	437	437	PRON	PER	us
+36	437	438	NOM	PER	us humans
+14	441	441	PRON	PER	us

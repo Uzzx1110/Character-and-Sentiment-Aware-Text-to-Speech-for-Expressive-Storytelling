@@ -1,0 +1,199 @@
+start_token	end_token	supersense_category	text
+0	1	noun.person	Little Aubrey
+2	2	verb.emotion	loved
+4	4	verb.perception	gaze
+10	10	noun.object	sky
+12	12	noun.time	day
+14	15	noun.person	Little Aubrey
+17	17	verb.cognition	wondered
+22	22	noun.object	sky
+23	23	verb.perception	looked
+29	29	noun.time	sunrise
+31	31	noun.time	sunset
+34	34	noun.time	day
+37	37	verb.communication	talking
+39	40	noun.person	Little Aubrey
+42	42	noun.person	friend
+43	43	noun.person	Billy
+45	45	verb.cognition	studied
+46	46	noun.animal	animals
+48	48	noun.attribute	nature
+50	51	noun.person	Little Aubrey
+52	52	verb.cognition	learned
+55	55	noun.object	Earth
+57	57	noun.state	atmosphere
+58	58	verb.change	scatters
+59	59	noun.phenomenon	sunlight
+61	61	verb.change	making
+63	65	noun.attribute	bright blue sky
+66	66	verb.change	appear
+70	70	verb.change	made
+71	72	noun.person	Little Aubrey
+73	73	verb.emotion	appreciate
+75	75	noun.attribute	beauty
+77	78	noun.person	Little Aubrey
+80	80	noun.quantity	more
+84	84	noun.time	afternoon
+88	89	noun.person	Little Aubrey
+90	90	verb.creation	discovered
+94	95	noun.person	Little Aubrey
+97	98	noun.person	fiancé Carson
+101	101	verb.communication	cheating
+103	104	noun.person	Little Aubrey
+110	111	noun.person	Little Aubrey
+112	112	verb.communication	asked
+114	115	noun.person	fiancé Carson
+117	117	verb.motion	return
+118	119	noun.person	Little Aubrey
+121	122	noun.possession	engagement ring
+125	126	verb.motion	sat down
+130	130	noun.plant	tree
+133	134	noun.person	Little Aubrey
+135	135	verb.communication	said
+138	138	noun.person	Carson
+143	143	verb.cognition	trust
+148	148	verb.emotion	breaks
+150	150	noun.cognition	heart
+155	156	verb.motion	part ways
+164	165	noun.person	Little Aubrey
+166	167	verb.communication	reached out
+169	170	noun.person	Little Aubrey
+173	174	noun.person	biology teacher
+175	176	noun.person	Mrs. Luna
+178	178	noun.communication	advice
+182	182	noun.cognition	biology
+183	183	noun.person	teacher
+184	185	noun.person	Mrs. Luna
+186	186	verb.perception	listened
+190	190	verb.communication	explained
+192	192	noun.plant	plants
+193	193	verb.change	grow
+196	196	noun.plant	plants
+197	197	verb.communication	face
+199	199	noun.phenomenon	winds
+202	202	noun.state	conditions
+205	205	noun.state	life
+208	208	verb.competition	facing
+209	209	noun.communication	adversities
+210	210	verb.change	helps
+212	212	verb.change	become
+215	215	verb.change	prepares
+220	220	noun.time	future
+223	223	noun.body	tears
+225	226	noun.person	Little Aubrey
+228	228	noun.body	eyes
+230	231	noun.person	Little Aubrey
+232	232	verb.communication	nodded
+234	234	verb.communication	thanked
+237	237	noun.cognition	biology
+238	238	noun.person	teacher
+239	240	noun.person	Mrs. Luna
+244	245	noun.person	biology teacher
+246	247	noun.person	Mrs. Luna
+249	249	noun.cognition	wisdom
+251	251	noun.time	Days
+252	252	verb.change	turned
+254	254	noun.time	weeks
+259	260	noun.person	Little Aubrey
+261	261	verb.change	began
+262	262	verb.creation	healing
+264	264	verb.social	engaging
+266	266	noun.act	activities
+267	268	noun.person	Little Aubrey
+269	269	verb.emotion	loved
+274	275	noun.person	Little Aubrey
+277	277	noun.act	walks
+280	280	noun.object	riverbank
+282	283	noun.person	Little Aubrey
+284	284	verb.perception	noticed
+287	287	noun.animal	insect
+288	288	verb.motion	struggling
+291	291	noun.event	current
+295	296	noun.person	Little Aubrey
+297	297	verb.perception	observed
+300	300	noun.animal	insect
+302	302	noun.attribute	resilience
+308	308	noun.animal	insect
+310	310	noun.time	moment
+312	313	verb.motion	fly away
+316	316	noun.time	moment
+317	317	verb.communication	sparked
+319	319	noun.communication	question
+321	322	noun.person	Little Aubrey
+324	324	noun.cognition	mind
+330	330	noun.animal	wings
+331	331	verb.social	help
+334	334	noun.animal	insect
+335	335	verb.motion	escape
+339	339	verb.communication	researched
+341	341	verb.creation	discovered
+343	343	noun.animal	insects
+345	345	noun.animal	wings
+346	346	verb.body	work
+347	347	verb.cognition	based
+349	350	noun.cognition	fluid dynamics
+353	353	noun.cognition	study
+355	355	noun.substance	liquids
+357	357	noun.Tops	gases
+359	359	noun.event	motion
+361	361	noun.act	Wings
+362	362	verb.creation	create
+363	363	noun.act	lift
+366	366	noun.phenomenon	pressure
+367	367	noun.event	differences
+372	372	noun.artifact	surfaces
+373	373	verb.creation	caused
+375	375	noun.substance	air
+376	376	noun.event	movement
+378	378	noun.location	Wings
+383	383	verb.cognition	fascinated
+385	386	noun.person	Little Aubrey
+387	387	verb.emotion	felt
+388	388	verb.emotion	inspired
+392	392	noun.Tops	knowledge
+394	394	verb.cognition	realized
+397	397	verb.stative	being
+402	403	noun.person	Little Aubrey
+405	405	verb.possession	possessed
+407	407	noun.attribute	strength
+410	410	verb.motion	lifting
+411	412	noun.person	Little Aubrey
+414	415	noun.person	Little Aubrey
+417	417	noun.act	struggles
+420	420	noun.time	days
+421	421	verb.motion	passed
+423	424	noun.person	Little Aubrey
+425	425	verb.change	continued
+426	426	verb.cognition	learning
+430	430	noun.Tops	phenomena
+432	432	verb.consumption	applying
+434	434	noun.cognition	concept
+436	436	verb.change	heal
+437	438	noun.person	Little Aubrey
+446	447	verb.social	cutting ties
+450	451	noun.person	fiancé Carson
+453	454	noun.person	Little Aubrey
+455	455	verb.cognition	decided
+457	457	verb.stative	maintain
+459	459	noun.communication	communication
+462	462	verb.communication	ensure
+463	463	noun.state	closure
+467	467	noun.event	experience
+469	470	noun.person	Little Aubrey
+471	471	verb.cognition	understood
+473	473	noun.cognition	life
+474	474	verb.stative	has
+476	476	noun.event	twists
+481	481	noun.phenomenon	forces
+482	483	verb.stative	acting upon
+484	484	noun.animal	insects
+486	486	noun.animal	wings
+494	494	noun.cognition	obstacles
+496	496	verb.perception	seem
+499	499	verb.contact	carries
+503	503	noun.attribute	power
+505	505	verb.motion	rise
+512	512	noun.animal	wings
+513	513	verb.motion	carrying
+514	515	noun.person	Little Aubrey
+519	519	noun.object	river

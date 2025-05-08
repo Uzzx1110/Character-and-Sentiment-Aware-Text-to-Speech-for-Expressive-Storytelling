@@ -1,0 +1,68 @@
+COREF	start_token	end_token	prop	cat	text
+1	0	1	PROP	PER	Little Aubrey
+1	14	15	PROP	PER	Little Aubrey
+1	39	40	PROP	PER	Little Aubrey
+6	39	42	NOM	PER	Little Aubrey 's friend
+2	43	43	PROP	PER	Billy
+1	50	51	PROP	PER	Little Aubrey
+0	55	55	PROP	LOC	Earth
+1	71	72	PROP	PER	Little Aubrey
+1	77	78	PROP	PER	Little Aubrey
+1	88	89	PROP	PER	Little Aubrey
+1	94	95	PROP	PER	Little Aubrey
+3	98	98	PROP	PER	Carson
+1	103	104	PROP	PER	Little Aubrey
+1	110	111	PROP	PER	Little Aubrey
+1	113	113	PRON	PER	her
+3	115	115	PROP	PER	Carson
+1	118	119	PROP	PER	Little Aubrey
+7	124	124	PRON	PER	They
+7	128	128	PRON	PER	their
+1	133	134	PROP	PER	Little Aubrey
+3	138	138	PROP	PER	Carson
+1	140	140	PRON	PER	I
+3	144	144	PRON	PER	you
+1	149	149	PRON	PER	my
+7	153	153	PRON	PER	we
+1	164	165	PROP	PER	Little Aubrey
+1	169	170	PROP	PER	Little Aubrey
+8	169	174	NOM	PER	Little Aubrey 's trusted biology teacher
+4	175	176	PROP	PER	Mrs. Luna
+1	180	180	PRON	PER	her
+9	180	183	NOM	PER	her trusted biology teacher
+4	184	185	PROP	PER	Mrs. Luna
+10	211	211	PRON	PER	us
+10	216	216	PRON	PER	us
+10	219	219	PRON	PER	our
+1	225	226	PROP	PER	Little Aubrey
+1	230	231	PROP	PER	Little Aubrey
+1	235	235	PRON	PER	her
+9	235	238	NOM	PER	her trusted biology teacher
+4	239	240	PROP	PER	Mrs. Luna
+1	242	242	PRON	PER	her
+9	242	245	NOM	PER	her trusted biology teacher
+4	246	247	PROP	PER	Mrs. Luna
+1	259	260	PROP	PER	Little Aubrey
+1	267	268	PROP	PER	Little Aubrey
+1	274	275	PROP	PER	Little Aubrey
+13	279	280	NOM	LOC	the riverbank
+1	282	283	PROP	PER	Little Aubrey
+1	295	296	PROP	PER	Little Aubrey
+1	321	322	PROP	PER	Little Aubrey
+14	332	334	NOM	PER	a peculiar insect
+1	337	338	PROP	PER	Little Aubrey
+5	378	378	PROP	PER	Wings
+1	385	386	PROP	PER	Little Aubrey
+1	402	403	PROP	PER	Little Aubrey
+1	411	412	PROP	PER	Little Aubrey
+1	414	415	PROP	PER	Little Aubrey
+1	423	424	PROP	PER	Little Aubrey
+1	437	438	PROP	PER	Little Aubrey
+1	449	449	PRON	PER	her
+3	451	451	PROP	PER	Carson
+1	453	454	PROP	PER	Little Aubrey
+1	469	470	PROP	PER	Little Aubrey
+15	498	498	NOM	PER	everyone
+15	501	501	PRON	PER	them
+1	514	515	PROP	PER	Little Aubrey
+16	517	519	NOM	LOC	the mighty river

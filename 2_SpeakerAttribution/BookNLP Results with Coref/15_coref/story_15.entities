@@ -1,0 +1,62 @@
+COREF	start_token	end_token	prop	cat	text
+3	1	7	NOM	LOC	the heart of a lush green forest
+4	4	7	NOM	LOC	a lush green forest
+5	16	20	NOM	LOC	a lush green forest home
+4	59	62	NOM	LOC	a lush green forest
+0	69	69	PROP	PER	Oliver
+0	79	79	PROP	PER	Oliver
+0	84	84	PRON	PER	his
+7	84	90	NOM	PER	his friends and fellow creatures 's friends
+8	87	88	NOM	PER	fellow creatures
+8	92	93	NOM	PER	fellow creatures
+1	102	104	PROP	PER	Chippy the chipmunk
+10	106	120	NOM	PER	a wise old owl named Oliver , who loved observing his friends and fellow creatures
+0	111	111	PROP	PER	Oliver
+0	116	116	PRON	PER	his
+11	116	117	NOM	PER	his friends
+8	119	120	NOM	PER	fellow creatures
+13	138	138	PRON	PER	our
+14	138	139	NOM	PER	our trio
+2	148	149	PROP	PER	Fiona Fox
+2	157	158	PROP	PER	Fiona Fox
+2	160	161	PROP	PER	Fiona Fox
+2	166	166	PRON	PER	I
+2	173	173	PRON	PER	you
+13	187	187	PRON	PER	our
+14	187	188	NOM	PER	our trio
+13	195	195	PRON	PER	our
+14	195	196	NOM	PER	our trio
+17	200	201	NOM	LOC	the woods
+13	214	214	PRON	PER	our
+14	214	215	NOM	PER	our trio
+13	233	233	PRON	PER	our
+14	233	234	NOM	PER	our trio
+20	233	237	NOM	FAC	our trio 's beloved home
+21	246	248	NOM	PER	everyone living there
+13	252	252	PRON	PER	our
+14	252	253	NOM	PER	our trio
+23	299	299	NOM	PER	survivors
+23	312	312	NOM	PER	survivors
+13	318	318	PRON	PER	our
+14	318	319	NOM	PER	our trio
+13	323	323	PRON	PER	our
+14	323	324	NOM	PER	our trio
+27	326	326	NOM	PER	someone
+0	339	339	PROP	PER	Oliver
+0	344	344	PRON	PER	his
+11	344	345	NOM	PER	his friends
+8	347	348	NOM	PER	fellow creatures
+10	355	369	NOM	PER	a wise old owl named Oliver , who loved observing his friends and fellow creatures
+0	360	360	PROP	PER	Oliver
+0	365	365	PRON	PER	his
+11	365	366	NOM	PER	his friends
+8	368	369	NOM	PER	fellow creatures
+13	373	373	PRON	PER	We
+13	385	385	PRON	PER	Our
+13	400	400	PRON	PER	our
+14	400	401	NOM	PER	our trio
+13	412	412	PRON	PER	our
+14	412	413	NOM	PER	our trio
+13	431	431	PRON	PER	our
+14	431	432	NOM	PER	our trio
+36	450	451	NOM	PER	every creature

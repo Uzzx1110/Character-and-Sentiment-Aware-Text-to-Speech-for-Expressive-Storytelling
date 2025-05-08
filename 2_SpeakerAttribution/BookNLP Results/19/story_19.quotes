@@ -1,0 +1,9 @@
+quote_start	quote_end	mention_start	mention_end	mention_phrase	char_id	quote
+69	72	74	74	Timmy	0	" Einstein , "
+81	86	74	74	Timmy	0	" what happened here ? "
+90	117	87	87	Einstein	1	" Well Timmy , sometimes when birds fly too close to the sun or work too hard without rest , their engines overheat , causing trouble . "
+121	132	118	118	Timmy	0	" Like a fever ? But planes are n't alive ! "
+141	178	138	138	Einstein	1	" True , but airplanes do need fuel and care , much like our bodies require food and sleep . This wreckage tells us that maybe someone forgot to give it enough rest or proper maintenance . "
+234	258	285	285	Helena	2	" Do n't be afraid , I 'm just a friendly chopper who loves flying around helping people . My name is Helena . "
+264	284	261	261	Timmy	0	" Y - you can talk ? ! And how come your sister back there is n't moving anymore ? "
+289	336	285	285	Helena	2	" My dear friend , we were once part of a pair , twin sisters indeed , both turbines working together harmoniously . Alas , she suffered an injury no one could repair ; her oil pressure dropped , making her seize up and fall lifelessly . "
