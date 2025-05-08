@@ -53,9 +53,3 @@ Your JSON analysis:
 * Python ≥ 3.8
 * `transformers`, `torch`, `nltk`, `openai`, `json`, `numpy`, `requests`
 * ElevenLabs API key for TTS
-## Run
-```bash
-python generate_stories.py
-python evaluate_stories.py
-python tts_generation.py
-```
